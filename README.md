@@ -24,26 +24,26 @@ Thank you!
 - *Shape-of-You: Fused Gromov-Wasserstein Optimal Transport for
 Semantic Correspondence in-the-Wild*  
   Jiin Im, Sisung Liu, Je Hyeong Hong  
-  **CVPR 2026**
+  **CVPR 2026**.
   [[Paper]](https://arxiv.org/pdf/2603.11618)
   [[Code]](https://github.com/SpatialAILab/shapeofyou)
   
 - *SimpleMatch: A Simple and Strong Baseline for Semantic Correspondence*  
   Hailong Jin, Huiying Li  
-  **arxiv preprint 2026**
+  **arxiv preprint 2026**.
   [[Paper]](https://arxiv.org/pdf/2601.12357)
   [[Code]](https://github.com/hailong23-jin/SimpleMatch)
 
 ## 2025
 - *Gromov Wasserstein Optimal Transport for Semantic Correspondences*  
   Francis Snelgar, Stephen Gould, Ming Xu, Liang Zheng, Akshay Asthana  
-  **BMVC 2025**
+  **BMVC 2025**.
   [[Paper]](https://arxiv.org/pdf/2602.03105)
   [[Code]](https://github.com/fsnelgar/semantic_matching_gwot)
 
 - *Similarity-Aware Selective State-Space Modeling for Semantic Correspondence*  
   Seungwook Kim, Minsu Cho  
-  **ICCV 2025 Findings Oral**
+  **ICCV 2025 Findings Oral**.
   [[Paper]](https://arxiv.org/pdf/2509.24318)
   [[Code]](https://github.com/wookiekim/MambaMatcher)
 
